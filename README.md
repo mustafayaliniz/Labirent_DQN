@@ -1,7 +1,3 @@
-Tabii ki, README dosyasını daha ayrıntılı hale getirelim. Aşağıda, projenizi daha kapsamlı bir şekilde açıklayan güncellenmiş bir README dosyası örneği bulunmaktadır:
-
----
-
 # Labirent DQN
 
 Labirent DQN, bir derin Q-öğrenme (DQN) algoritması kullanarak bir labirent ortamında bir oyuncunun (maymun) muzları hedef olarak belirlemesini sağlayan bir yapay zeka projesidir. Proje, pygame kütüphanesi ile bir labirent oyunu ve PyTorch ile bir DQN modelini içerir.
